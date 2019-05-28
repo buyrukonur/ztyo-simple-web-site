@@ -1,0 +1,90 @@
+
+#webpage 
+{ 
+	margin-left:20 px;
+	margin-right:30 px;
+}
+#logo 
+{
+	border:1px none #999;
+	background-color:transparent;
+	width:80px;
+	position:absolute;
+	top:13px;
+	left:0px;
+	margin-left:10px;
+	z-index:0;
+}
+
+p
+{ 
+ text-indent:30px;
+	
+	}
+h1 
+{
+	
+	color:red;
+	
+	align="center"
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:35px;
+	
+}
+#title
+{
+
+	color:red;
+	
+	align="center"
+	font-family:'Comic Sans MS', cursive;
+	font-size:35px;
+	
+}
+#content 
+{
+	font-family:"Arial Black;	
+	font-size:40px;
+	font-style:bold;
+
+}
+
+
+
+#ybs 
+{
+	    
+	     height: 300px;  
+	     width: 33.3%;
+	     float: left;
+		
+}
+#mfy  
+{
+	    
+		 height: 300px;
+		 width: 33.3%; 
+		 float: left; 
+		
+}
+
+#ut 
+{
+	    
+	    height: 300px;  
+	    width: 33.3%;
+	    float: left;
+	
+}
+
+#footer 
+{
+    
+    position:fixed;
+    width: 100%;
+    background-color:#FFF;
+    color:blue;
+    text-align: center;
+    
+}
+
